@@ -16,7 +16,6 @@
 		89144015261A955F00AAD706 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89144013261A955F00AAD706 /* LaunchScreen.storyboard */; };
 		89144020261A956000AAD706 /* imu_testTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8914401F261A956000AAD706 /* imu_testTests.swift */; };
 		8914402B261A956000AAD706 /* imu_testUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8914402A261A956000AAD706 /* imu_testUITests.swift */; };
-		9F9FB8D714B401DBE4D02015 /* Pods_imu_test.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CA3C65B2446CD7CA2DFB1E70 /* Pods_imu_test.framework */; };
 		F58DE65B73118FC24291CEEA /* Pods_imu_testTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E7E1F41DDB97E6C4998D7F5 /* Pods_imu_testTests.framework */; };
 /* End PBXBuildFile section */
 
@@ -68,7 +67,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9F9FB8D714B401DBE4D02015 /* Pods_imu_test.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -586,13 +584,13 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = UM7222R6HX;
+				DEVELOPMENT_TEAM = 8747WKM963;
 				INFOPLIST_FILE = imu_test/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "uw.imu-test";
+				PRODUCT_BUNDLE_IDENTIFIER = thePiguy;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -606,13 +604,13 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = UM7222R6HX;
+				DEVELOPMENT_TEAM = 8747WKM963;
 				INFOPLIST_FILE = imu_test/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "uw.imu-test";
+				PRODUCT_BUNDLE_IDENTIFIER = thePiGuy;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
